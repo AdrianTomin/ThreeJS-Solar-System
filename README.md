@@ -35,5 +35,6 @@ A simple and interactive model of our Solar System built with TypeScript, Vite, 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://www.svgrepo.com/show/1321/planet.svg)
+<img src="https://www.svgrepo.com/show/1321/planet.svg" alt="Logo" width="100" height="100">
+
 
