@@ -1,7 +1,16 @@
 
 # ThreeJS Solar System
 
-A simple and interactive model of our Solar System built with TypeScript, Vite, and Three JS.
+A simple and interactive model of our Solar System built with: 
+<br/>
+<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
+<br/>
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<br/>
+<br/>
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## Features
 
