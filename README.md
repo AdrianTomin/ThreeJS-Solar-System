@@ -18,6 +18,10 @@ A simple and interactive model of our Solar System built with:
 
 - Dynamic Controls: Utilize TweakPane controls to adjust parameters such as distance, speed, and radius, allowing for customization and experimentation.
 
+- Each planet is scaled up 10x for visualization.
+
+- Each real-life minute represents 365 days on Earth.
+
 
 ## Screenshots
 
