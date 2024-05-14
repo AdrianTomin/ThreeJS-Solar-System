@@ -30,7 +30,7 @@ A simple and interactive model of our Solar System built with:
 
 ## Installation
 
-- Clone this repository to your local machine.
+- Clone this repository to your local machine using `git clone https://github.com/AdrianTomin/ThreeJS-Solar-System.git`.
 - Navigate to the project directory.
 - Install dependencies using `npm install`.
 - Start the development server with `npm run dev`.
